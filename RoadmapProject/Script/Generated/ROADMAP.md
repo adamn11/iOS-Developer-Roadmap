@@ -198,16 +198,16 @@ Tapping on a link will take you to relevant materials.
             - [ ] NP Complete
             - [ ] [`Big-O notation`](Resources/iOS_Developer/Computer_Science_knowledge/Algorithms/Big-O_notation/RESOURCES.md)
         - [ ] `Abstract Data Types`
-            - [ ] `Stack`
-            - [ ] `Array`
-            - [ ] `List`
-            - [ ] `Map`
+            - [x] `Stack`
+            - [x] `Array`
+            - [x] `List`
+            - [x] `Map`
             - [ ] Multimap
             - [ ] `Set`
             - [ ] Multiset (Bag)
             - [ ] `Graph`
                 - [ ] Tree
-            - [ ] `Queue`
+            - [x] `Queue`
             - [ ] Priority Queue
             - [ ] Double-ended priority queue
             - [ ] Double-ended queue
